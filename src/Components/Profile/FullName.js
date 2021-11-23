@@ -1,11 +1,8 @@
-import React from "react"
+import React from "react";
 
 const FullName = () => {
   return (
     <div>
-      <div>
-        <img src="./image.jpg" alt="Profilephoto" />
-      </div>
       <h1 className="name">Adebayo Idris</h1>
       {/* <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure in ducimus,
           tenetur facere repellendus ipsa beatae minus est laudantium nobis tempora
